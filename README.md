@@ -87,3 +87,5 @@ Val DICE: 0.9516  ✅ BEST
 Epoch [15/20] - Train DICE: 0.8926
 Val DICE: 0.9447
 ⏹ Early stopping triggered
+![Training & Validation Dice](https://raw.githubusercontent.com/khaledaymansaber/Brain-Tumor-Segmentation-using-ResNeXt50-UNet/main/Train_val_dice.jpeg)
+
