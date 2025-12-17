@@ -78,6 +78,7 @@ To improve generalization and reduce overfitting, strong augmentations were appl
 - **Early Stopping Triggered**: Epoch 15
 - **Saved Model**: `best_ResNeXt50.pth`
 
+![Training & Validation Dice](https://raw.githubusercontent.com/khaledaymansaber/Brain-Tumor-Segmentation-using-ResNeXt50-UNet/main/Train_val_dice.jpeg)
 ### 🔹 Training Log Snapshot
 ```text
 Epoch [10/20] - Train Loss: 0.1256
@@ -87,5 +88,4 @@ Val DICE: 0.9516  ✅ BEST
 Epoch [15/20] - Train DICE: 0.8926
 Val DICE: 0.9447
 ⏹ Early stopping triggered
-![Training & Validation Dice](https://raw.githubusercontent.com/khaledaymansaber/Brain-Tumor-Segmentation-using-ResNeXt50-UNet/main/Train_val_dice.jpeg)
 
