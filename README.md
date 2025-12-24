@@ -52,7 +52,7 @@ To improve generalization and reduce overfitting, strong augmentations were appl
 ## 🏗 Model Architecture
 
 ### 🔹 ResNeXt50-UNet
-
+- link of weights (https://docs.pytorch.org/vision/main/models/generated/torchvision.models.resnext50_32x4d.html)
 - **Encoder**: Pretrained ResNeXt50
 - **Decoder**: U-Net style upsampling blocks
 - **Skip Connections**: Preserve spatial information
